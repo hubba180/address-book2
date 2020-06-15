@@ -1,12 +1,12 @@
-# _Favorite Things_
+# _Adress Book_
 
-#### _Web form that takes in Favorite Things, 6/8/20_
+#### _Address Book Project 6/15/20_
 
-#### By _**Joseph Pearce**_
+#### By _**Joseph Pearce**__**Kyle Hubbard**_
 
 ## Description
 
-_Web form that takes in Favorite Things, stores it into an Array and returns it to the html page_
+_Address book project_
 
 ## Setup/Installation Requirements
 
@@ -15,7 +15,6 @@ _Web form that takes in Favorite Things, stores it into an Array and returns it 
 * _in a simple_
 * _easy-to-understand_
 * _format_
-
 
 
 ## Known Bugs
@@ -33,5 +32,4 @@ _jQuery_
 
 ### License
 
-
-Copyright (c) 2016 **_Joseph Pearce_**
+MIT
